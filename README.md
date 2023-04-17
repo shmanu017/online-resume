@@ -4,25 +4,27 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
 
 [Email](mailto:shmanu17@gmail.com) / [LinkedIn](https://www.linkedin.com/in/manusharma08/) / [GitHub](https://github.com/shmanu017) / [Cal.com](https://cal.com/manusharma)
 
-## TECH STACK
+## Tech Stack
 
-**Languages**
+**Continuous Integration**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Json](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-%23FF0000.svg?style=for-the-badge&logo=CircleCI&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-%23F24E1E.svg?style=for-the-badge&logo=Github&logoColor=white)
 
 **Container Technology**
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-ff1709?style=for-the-badge&color=ff1709)
-![Helm](https://img.shields.io/badge/Helm-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%23092E20.svg?style=for-the-badge&logo=helm&logoColor=white)
 ![Argo](https://img.shields.io/badge/Argo-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![EKS](https://img.shields.io/badge/AWS-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![GKE](https://img.shields.io/badge/GCP-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![AKE](https://img.shields.io/badge/AKS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Openshift v3](https://img.shields.io/badge/Openshift-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Openshift v3](https://img.shields.io/badge/Openshift-%23563D7C.svg?style=for-the-badge&logoColor=white)
+
+**Infrastructure as Code**
+
+![Terraform](https://img.shields.io/badge/Terraform-FCC624?style=for-the-badge&logo=terraform&logoColor=black)
 
 **Databases**
 
@@ -35,22 +37,18 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Json](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+
 **IDEs**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime%20text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-
-**Operating Systems**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-**Design**
-
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 **Soft Skills**
 
