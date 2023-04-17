@@ -9,7 +9,7 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
 **Continuous Integration**
 
 ![CircleCI](https://img.shields.io/badge/CircleCI-%23FF0000.svg?style=for-the-badge&logo=CircleCI&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-%23F24E1E.svg?style=for-the-badge&logo=Github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%23F24E1E.svg?style=for-the-badge&logo=Github&logoColor=white)
 
 **Container Technology**
 
@@ -60,6 +60,8 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
 ![OOP](https://img.shields.io/badge/OOP-deepskyblue?style=for-the-badge)
 ![Open-mindedness](https://img.shields.io/badge/Open%2d-mindedness-0078D6?style=for-the-badge)
 ![Problem-solving](https://img.shields.io/badge/Problem%2d-solving-blueviolet?style=for-the-badge)
+![Empathy](https://img.shields.io/badge/Empathy-white?style=for-the-badge)
+![Curiosity](https://img.shields.io/badge/Curiosity-black?style=for-the-badge)
 
 ## 👨🏻‍💻 Engineering Experience
 
