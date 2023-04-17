@@ -21,7 +21,7 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
 ![Rancher](https://img.shields.io/badge/Rancher-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![EKS](https://img.shields.io/badge/AWS-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![GKE](https://img.shields.io/badge/GCP-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![AKE](https://img.shields.io/badge/microsoft.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![AKE](https://img.shields.io/badge/Windows.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Openshift v3](https://img.shields.io/badge/Openshift-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Databases**
