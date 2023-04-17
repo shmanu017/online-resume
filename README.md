@@ -26,7 +26,6 @@ No-code platform that enables professionals to build interactive applications.
 - Automate self-serve customer success paths through updated networking, security, and 3rd party integration documentation.
 - **_Selected open-source work:_**
 - [Apache Airflow Open Source project](https://github.com/apache/airflow)
-
   <br><br>
 
 - **_Technologies used:_** Kubernetes, Helm, Python, Argo CD, Rancher ,Prometheus, Bash, GraphQL, RestAPI, Apache Airflow.
