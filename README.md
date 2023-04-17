@@ -25,12 +25,11 @@ No-code platform that enables professionals to build interactive applications.
 - Help clients adopt Astronomer’s managed Airflow deployments by providing customer-facing support and installation services. Integrate Airflow as the central component in their data and ML workflows.
 - Automate self-serve customer success paths through updated networking, security, and 3rd party integration documentation.
 - **_Selected open-source work:_**
-- [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-- [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-- [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
+- [Apache Airflow Open Source project](https://github.com/apache/airflow)
+
   <br><br>
 
-- **_Technologies used:_** Kubernetes, Helm, Python, Argo CD, Rancher ,Prometheus, Bash, GraphQL, RestAPI, .
+- **_Technologies used:_** Kubernetes, Helm, Python, Argo CD, Rancher ,Prometheus, Bash, GraphQL, RestAPI, Apache Airflow.
   <br><br>
 
 **Software Engineer Intern** @ [Live in Bing](https://www.liveinbing.com/) _(Sep 2018 - May 2019)_ <br>
