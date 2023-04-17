@@ -64,7 +64,6 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
 ## 👨🏻‍💻 Engineering Experience
 
 **Site Reliability Engineer** @ [ASTRONOMER](https://www.astronomer.io/) _(Apr 2022 - Apr 2023)_ <br>
-No-code platform that enables professionals to build interactive applications.
 
 - Part of a team of 7 enterprise software professionals supporting a project valued at nearly $12 Million.
 - Monitor, operate, and maintain the foundational multi-tenant infrastructure for managed Airflow, catering to the needs of more than 200 customers.
