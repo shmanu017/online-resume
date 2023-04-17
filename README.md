@@ -15,8 +15,8 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-ff1709?style=for-the-badge&color=ff1709)
 ![Helm](https://img.shields.io/badge/Helm-%23092E20.svg?style=for-the-badge&logo=helm&logoColor=white)
-![Argo](https://img.shields.io/badge/Argo-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Argo](https://img.shields.io/badge/Argo-%236DB33F.svg?style=for-the-badge&logo=argo&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-%2361DAFB.svg?style=for-the-badge&logo=rancher&logoColor=black)
 ![EKS](https://img.shields.io/badge/AWS-%23593d88.svg?style=for-the-badge&logo=amazon&logoColor=white)
 ![GKE](https://img.shields.io/badge/GCP-6DA55F?style=for-the-badge&logo=google&logoColor=white)
 ![AKE](https://img.shields.io/badge/AKS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
