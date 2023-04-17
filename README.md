@@ -46,20 +46,13 @@ Professional chauffeur service available in over 300 cities worldwide.
 - Conducted quality check on execution order of database deliveries, ensuring coverage of all dependencies before publishing to developers for final changes prior to release.
   <br><br>
 
-## 🏆 Accomplishments
+## 🏆 Certification
 
-<!-- **Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model.
+**Certifield Kubernetes Administrator** @ [Astronomer](https://www.credly.com/badges/c6812b55-0541-4494-bcbd-0ad0570736df?source=linked_in_profile) _(Jan 2022)_ <br>
 
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
-<br><br>
+**Certifield Kubernetes Application Developer** @ [Astronomer](https://www.credly.com/badges/081c197d-354d-4fd2-8419-2aaff8ad97d2?source=linked_in_profile) _(Feb 2022)_ <br>
 
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
-<br><br> -->
+**Red Hat Certified System Administrator** @ [TCS](https://www.redhat.com/en/services/certification/rhcsa) _(Aug 2017)_ <br>
 
 ## 💬 Languages
 
