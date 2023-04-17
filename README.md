@@ -13,7 +13,7 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
 - Implement Teleport, OPA, Pod Security and Role-based access Control for container security best practices,
   along with Disaster Recovery and reduce operation hours by 30%.
 - Reduced managed Airflow offering underline infrastructure cost by 18%
-- Implement end-to-end automation to reduce QA engineering effort.
+- Implement end-to-end automation to reduce QA engineering effort by 35%.
 
 - **_Technologies used:_** Kubernetes, Helm, Python, PromQL, Bash, GraphQL, RestAPI, OPA(Gatekeeper) , Velero, Terraform, Docker, Kustomizer , CircleCI.
   <br><br>
@@ -34,13 +34,13 @@ From Early Stage to Series B, I joined as the 22nd employee and the company has 
 **Software Engineer Intern** @ [Live in Bing](https://www.liveinbing.com/) _(Sep 2018 - May 2019)_ <br>
 Early-stage startup focused on Student housing.
 
-- Developed a web app to manage using Django REST and PostgreSQL, operations for roommate matching with existing tenants for better home in and around Binghamton.
+- Developed a web app to manage using Django REST and PostgreSQL, operations for roommate matching with existing tenants for better home in and around Binghamton in almost 35 properties.
 - Agile Development was utilized for maintenance, feature development on a Bootstrap4/PHP WordPress site.
 - **_Technologies used:_** Django REST Framwork, PostgreSQL, Bootstrap4, GCE
 
 **Assistant Systems Engineer** @ [Tata Consultancy Services](https://www.tcs.com/) _(Nov 2015 - May 2017)_ <br>
 
-- Managed data flow and user permission for 350+ employees across multiple platforms to ensure error-free performance.
+- handled data flow and user permission for 350+ employees across multiple platforms to ensure error-free performance.
 - Improved JIRA resolution time by 25% in 2 months by automating tasks with shell scripts, developing and deploying code to pre-production, and conducting sanity checks for production delivery.
 - Conducted quality check on execution order of database deliveries, ensuring coverage of all dependencies before publishing to developers for final changes prior to release.
   <br><br>
@@ -74,7 +74,6 @@ Early-stage startup focused on Student housing.
 **Container Technology**
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-ff1709?style=for-the-badge&color=ff1709)
-![Helm](https://img.shields.io/badge/Helm-%23092E20.svg?style=for-the-badge&logo=helm&logoColor=white)
 ![Argo](https://img.shields.io/badge/Argo-%236DB33F.svg?style=for-the-badge&logo=argo&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-%2361DAFB.svg?style=for-the-badge&logo=rancher&logoColor=black)
 ![EKS](https://img.shields.io/badge/EKS-%23593d88.svg?style=for-the-badge&logo=amazon&logoColor=white)
@@ -85,17 +84,31 @@ Early-stage startup focused on Student housing.
 **Infrastructure as Code**
 
 ![Terraform](https://img.shields.io/badge/Terraform-FCC624?style=for-the-badge&logo=terraform&logoColor=black)
+![Helm](https://img.shields.io/badge/Helm-%23092E20.svg?style=for-the-badge&logo=helm&logoColor=white)
+![Kustomizer](https://img.shields.io/badge/Kustomizer-FAC624?style=for-the-badge&logo=Kustomizer&logoColor=black)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-039BE5.svg?style=for-the-badge&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%2307405e.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**Obervability and Monitoring**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-ACC624?style=for-the-badge&logo=Prometheus&logoColor=black)
+![Fluentd](https://img.shields.io/badge/Fluentd-%23092E20.svg?style=for-the-badge&logo=Fluentd&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-FAC624?style=for-the-badge&logo=PagerDuty&logoColor=black)
+![Grafana](https://img.shields.io/badge/grafana-3670A0?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Version Control**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![BitBucket](https://img.shields.io/badge/bitbucket-%23F05033.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Agile**
+
+![Jira](https://img.shields.io/badge/jira-%23F05073.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23120011.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 **Languages**
 
