@@ -119,7 +119,7 @@ Professional chauffeur service available in over 300 cities worldwide.
 🇮🇳 **Hindi**: B1
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 👨🏼‍🎓 Education
 
 **Master of Science** in Computer Science<br>
 [Binghamton University](https://www.binghamton.edu/) - Binghamton, New York, USA _(2017 - 2019)_
