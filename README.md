@@ -9,11 +9,14 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
 **Site Reliability Engineer** @ [ASTRONOMER](https://www.astronomer.io/) _(Apr 2022 - Apr 2023)_ <br>
 
 - Part of a team of 7 enterprise software professionals supporting a project valued at nearly $12 Million.
-- Monitor, operate, and maintain the foundational multi-tenant infrastructure for managed Airflow, catering to the needs of more than 200 customers.
-- Implement Teleport, OPA, Pod Security and Role-based access Control for container security best practices,
-  along with Disaster Recovery and reduce operation hours by 30%.
-- Reduced managed Airflow offering underline infrastructure cost by 18%
-- Implement end-to-end automation to reduce QA engineering effort by 35%.
+- Monitored, operated, and maintained the foundational multi-tenant infrastructure for managed Airflow, catering to the
+  needs of more than 200 customers.
+- Implemented Teleport, OPA, Pod Security and Role-based access Control for container security best practices, along with
+  Disaster Recovery and reduce operation hours by 30%.
+- Cut underline infrastructure operational cost of managed Airflow Software offering by 18%.
+- Devised and implement end-to-end automation and reduce QA engineering effort by 35%.
+- Designed and implemented escalation policy related to enterprise software offering, serving as the primary point of
+  escalation for CRE and support engineers.
 
 - **_Technologies used:_** Kubernetes, Helm, Python, PromQL, Bash, GraphQL, RestAPI, OPA(Gatekeeper) , Velero, Terraform, Docker, Kustomizer , CircleCI.
   <br><br>
@@ -21,9 +24,9 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
 **Customer Reliability Engineer** @ [ASTRONOMER](https://www.astronomer.io/) _(Jan 2020 - Apr 2022)_ <br>
 From Early Stage to Series B, I joined as the 22nd employee and the company has grew to a headcount of almost 300.
 
-- Provide stable and dependable production environment's to over 150 enterprise users, while offering live troubleshooting support calls
-- Help clients adopt Astronomer’s managed Airflow deployments by providing customer-facing support and installation services. Integrate Airflow as the central component in their data and ML workflows.
-- Automate self-serve customer success paths through updated networking, security, and 3rd party integration documentation.
+- Provided stable and dependable production environment's to over 150 enterprise users, while offering live troubleshooting support calls.
+- Managed support calls and provided a stable and dependable production environment to enterprise users. Assisted clients in implementing Airflow pipelines, including the integration of the software as a central component in their data and ML workflow’s.
+- Automated self-serve customer success paths through updated networking, security, and 3rd party integration documentation.
 - **_Selected open-source work:_**
 - [Apache Airflow Open Source project](https://github.com/apache/airflow)
   <br><br>
@@ -34,14 +37,16 @@ From Early Stage to Series B, I joined as the 22nd employee and the company has 
 **Software Engineer Intern** @ [Live in Bing](https://www.liveinbing.com/) _(Sep 2018 - May 2019)_ <br>
 Early-stage startup focused on Student housing.
 
-- Developed a web app to manage using Django REST and PostgreSQL, operations for roommate matching with existing tenants for better home in and around Binghamton in almost 35 properties.
+- Developed a web app the enabled users to find for roommate with home in the Binghamton area via Django REST and
+  PostgreSQL with around 35 properties.
 - Agile Development was utilized for maintenance, feature development on a Bootstrap4/PHP WordPress site.
 - **_Technologies used:_** Django REST Framwork, PostgreSQL, Bootstrap4, GCE
 
 **Assistant Systems Engineer** @ [Tata Consultancy Services](https://www.tcs.com/) _(Nov 2015 - May 2017)_ <br>
 
-- handled data flow and user permission for 350+ employees across multiple platforms to ensure error-free performance.
-- Improved JIRA resolution time by 25% in 2 months by automating tasks with shell scripts, developing and deploying code to pre-production, and conducting sanity checks for production delivery.
+- Handled data flow and user permission for 350+ employees across multiple platforms for error-free performance.
+- Improved JIRA resolution time by 25% in 2 months by automating tasks with shell scripts, developing and deploying code
+  to pre-production, and conducting sanity checks for production delivery.
 - Conducted quality check on execution order of database deliveries, ensuring coverage of all dependencies before publishing to developers for final changes prior to release.
   <br><br>
 
