@@ -22,7 +22,7 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
   <br><br>
 
 **Customer Reliability Engineer** @ [ASTRONOMER](https://www.astronomer.io/) _(Jan 2020 - Apr 2022)_ <br>
-From Early Stage to Series B, I joined as the 22nd employee and the company has grew to a headcount of almost 300.
+From Seed to Series B, I joined as the 22nd employee and the company has grew to a headcount of almost 300.
 
 - Provided stable and dependable production environment's to over 150 enterprise users, while offering live troubleshooting support calls.
 - Managed support calls and provided a stable and dependable production environment to enterprise users. Assisted clients in implementing Airflow pipelines, including the integration of the software as a central component in their data and ML workflow’s.
