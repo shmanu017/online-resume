@@ -6,22 +6,20 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
 
 ## 👨🏻‍💻 Engineering Experience
 
-**Site Reliability Engineer** @ [ASTRONOMER](https://www.astronomer.io/) _(Apr 2022 - Apr 2023)_ <br>
+**Site Reliability Engineer** @ [ASTRONOMER](https://www.astronomer.io/), Cincinnati, OH _(Apr 2022 - Apr 2023)_ <br>
 
-- Part of a team of 7 enterprise software professionals supporting a project valued at nearly $12 Million.
-- Monitored, operated, and maintained the foundational multi-tenant infrastructure for managed Airflow, catering to the
-  needs of more than 200 customers.
-- Implemented Teleport, OPA, Pod Security and Role-based access Control for container security best practices, along with
-  Disaster Recovery and reduce operation hours by 30%.
-- Cut underline infrastructure operational cost of managed Airflow Software offering by 18%.
-- Devised and implement end-to-end automation and reduce QA engineering effort by 35%.
+- Part of a team of 7 engineers supporting a project valued at $12 Million.
+- Monitored, operated, and maintained the foundational multi-tenant infrastructure for managed Airflow in k8s, supporting over 200 customers.
+- Implemented Teleport, OPA, Pod Security and Role-based access Control for container security best practices, as well as disaster recovery, and reduce operation hours by 30%.
+- Cut underlying infrastructure operational cost of managed Airflow software offering by 18%.
+- Devised and implemented end-to-end automation, thereby reducing QA engineering efforts by 35%.
 - Designed and implemented escalation policy related to enterprise software offering, serving as the primary point of
   escalation for CRE and support engineers.
 
 - **_Technologies used:_** Kubernetes, Helm, Python, PromQL, Bash, GraphQL, RestAPI, OPA(Gatekeeper) , Velero, Terraform, Docker, Kustomizer , CircleCI.
   <br><br>
 
-**Customer Reliability Engineer** @ [ASTRONOMER](https://www.astronomer.io/) _(Jan 2020 - Apr 2022)_ <br>
+**Customer Reliability Engineer** @ [ASTRONOMER], Cincinnati, OH (https://www.astronomer.io/) _(Jan 2020 - Apr 2022)_ <br>
 From Seed to Series B, I joined as the 22nd employee and the company has grew to a headcount of almost 300.
 
 - Provided stable and dependable production environment's to over 150 enterprise users, while offering live troubleshooting support calls.
@@ -34,7 +32,7 @@ From Seed to Series B, I joined as the 22nd employee and the company has grew to
 - **_Technologies used:_** Kubernetes, Helm, Python, Argo CD, Rancher ,Prometheus, Bash, GraphQL, RestAPI, Apache Airflow.
   <br><br>
 
-**Software Engineer Intern** @ [Live in Bing](https://www.liveinbing.com/) _(Sep 2018 - May 2019)_ <br>
+**Software Engineer Intern** @ [Live in Bing](https://www.liveinbing.com/), Binghamton, NY _(Sep 2018 - May 2019)_ <br>
 Early-stage startup focused on Student housing.
 
 - Developed a web app the enabled users to find for roommate with home in the Binghamton area via Django REST and
@@ -42,7 +40,7 @@ Early-stage startup focused on Student housing.
 - Agile Development was utilized for maintenance, feature development on a Bootstrap4/PHP WordPress site.
 - **_Technologies used:_** Django REST Framwork, PostgreSQL, Bootstrap4, GCE
 
-**Assistant Systems Engineer** @ [Tata Consultancy Services](https://www.tcs.com/) _(Nov 2015 - May 2017)_ <br>
+**Assistant Systems Engineer** @ [Tata Consultancy Services](https://www.tcs.com/),Gurgaon, India _(Nov 2015 - May 2017)_ <br>
 
 - Handled data flow and user permission for 350+ employees across multiple platforms for error-free performance.
 - Improved JIRA resolution time by 25% in 2 months by automating tasks with shell scripts, developing and deploying code
