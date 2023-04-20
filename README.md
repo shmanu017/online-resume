@@ -19,7 +19,7 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
 - **_Technologies used:_** Kubernetes, Helm, Python, PromQL, Bash, GraphQL, RestAPI, OPA(Gatekeeper) , Velero, Terraform, Docker, Kustomizer , CircleCI.
   <br><br>
 
-**Customer Reliability Engineer** @ [ASTRONOMER], Cincinnati, OH (https://www.astronomer.io/) _(Jan 2020 - Apr 2022)_ <br>
+**Customer Reliability Engineer** @ [ASTRONOMER](https://www.astronomer.io/), Cincinnati, OH _(Jan 2020 - Apr 2022)_ <br>
 From Seed to Series B, I joined as the 22nd employee and the company has grew to a headcount of almost 300.
 
 - Provided stable and dependable production environment's to over 150 enterprise users, while offering live troubleshooting support calls.
