@@ -2,6 +2,8 @@
 
 _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
 
+📞 [607-232-4283](tel:+16072324283) <br>
+
 [Email](mailto:shmanu17@gmail.com) / [LinkedIn](https://www.linkedin.com/in/manusharma08/) / [GitHub](https://github.com/shmanu017) / [Cal.com](https://cal.com/manusharma)
 
 ## 👨🏻‍💻 Engineering Experience
