@@ -85,12 +85,12 @@ Early-stage startup focused on Student housing.
 ![GKE](https://img.shields.io/badge/GKE-6DA55F?style=for-the-badge&logo=google&logoColor=white)
 ![AKE](https://img.shields.io/badge/AKS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Openshift v3](https://img.shields.io/badge/Openshift-%23563D7C.svg?style=for-the-badge&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%23092E20.svg?style=for-the-badge&logo=helm&logoColor=white)
+![Kustomizer](https://img.shields.io/badge/Kustomizer-FAC624?style=for-the-badge&logo=Kustomizer&logoColor=black)
 
 **Infrastructure as Code**
 
 ![Terraform](https://img.shields.io/badge/Terraform-FCC624?style=for-the-badge&logo=terraform&logoColor=black)
-![Helm](https://img.shields.io/badge/Helm-%23092E20.svg?style=for-the-badge&logo=helm&logoColor=white)
-![Kustomizer](https://img.shields.io/badge/Kustomizer-FAC624?style=for-the-badge&logo=Kustomizer&logoColor=black)
 
 **Databases**
 
