@@ -10,7 +10,10 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
 
 **Site Reliability Engineer** @ [ASTRONOMER](https://www.astronomer.io/), Cincinnati, OH _(Apr 2022 - Apr 2023)_ <br>
 
-- Part of a team of 7 engineers supporting a project valued at $12 Million.
+- Part of a team of 7 engineers supporting a project valued at $12 Million. Contributed to Astronomer helm chart for improving and adding more functionality and features.
+- Designed and implemented a security policy on Google Kubernetes Engine (GKE), comprised of Gatekeeper (open-policy agent) and Teleport (access-control services), enabling developer and data scientists to effortlessly perform operation with audit capabilities and enhance security to scope individual customers within namespaces which reduced operation hours by 30%.
+- Contributed and maintained Infrastructure workflows using CircleCI. Improved build time by 20% using CirlceCI Orbs.
+- Setup security and resource monitoring for 100+ cloud resources.
 - Monitored, operated, and maintained the foundational multi-tenant infrastructure for managed Airflow in k8s, supporting over 200 customers.
 - Implemented Teleport, OPA, Pod Security and Role-based access Control for container security best practices, as well as disaster recovery, and reduce operation hours by 30%.
 - Cut underlying infrastructure operational cost of managed Airflow software offering by 18%.
