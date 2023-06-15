@@ -8,7 +8,7 @@ _DevOps/Infrastructure engineer based in Cincinnati, OH 🇺🇸🇮🇳_ <br>
 
 ## 👨🏻‍💻 Engineering Experience
 
-**Site Reliability Engineer** @ [ASTRONOMER](https://www.astronomer.io/), Cincinnati, OH _(Apr 2022 - Present)_ <br>
+**Site Reliability Engineer** @ [ASTRONOMER](https://www.astronomer.io/), Cincinnati, OH _(Apr 2022 - July 2023)_ <br>
 
 From Seed to Series C, I joined as the 22nd employee, and the company has grown to a headcount of almost 300.
 
