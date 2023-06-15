@@ -1,6 +1,6 @@
 # Manu Sharma
 
-_DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
+_DevOps/Infrastructure engineer based in Cincinnati, OH 🇺🇸🇮🇳_ <br>
 
 📞 [607-232-4283](tel:+16072324283) <br>
 
@@ -8,14 +8,16 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
 
 ## 👨🏻‍💻 Engineering Experience
 
-**Site Reliability Engineer** @ [ASTRONOMER](https://www.astronomer.io/), Cincinnati, OH _(Apr 2022 - Apr 2023)_ <br>
+**Site Reliability Engineer** @ [ASTRONOMER](https://www.astronomer.io/), Cincinnati, OH _(Apr 2022 - Present)_ <br>
+
+From Seed to Series C, I joined as the 22nd employee, and the company has grown to a headcount of almost 300.
 
 - Part of a team of 7 engineers supporting a project valued at $12 Million. Contributed to Astronomer helm chart for improving and adding more functionality and features.
 - Designed and implemented a security policy on Google Kubernetes Engine (GKE), comprised of Gatekeeper (open-policy agent) and Teleport (access-control services), enabling developer and data scientists to effortlessly perform operation with audit capabilities and enhance security to scope individual customers within namespaces which reduced operation hours by 30%.
 - Contributed and maintained Infrastructure workflows using CircleCI. Improved build time by 20% using CirlceCI Orbs.
 - Setup security and resource monitoring for 100+ cloud resources.
 - Monitored, operated, and maintained the foundational multi-tenant infrastructure for managed Airflow in k8s, supporting over 200 customers.
-- Implemented Teleport, OPA, Pod Security and Role-based access Control for container security best practices, as well as disaster recovery, and reduce operation hours by 30%.
+- Implemented Teleport, OPA, Pod Security, and Role-based access Control for container security best practices, as well as disaster recovery, and reduce operation hours by 30%.
 - Cut underlying infrastructure operational cost of managed Airflow software offering by 18%.
 - Devised and implemented end-to-end automation, thereby reducing QA engineering efforts by 35%.
 - Designed and implemented escalation policy related to enterprise software offering, serving as the primary point of
@@ -25,7 +27,6 @@ _DevOps/Infrastructure engineer based in Cincinnati,OH 🇺🇸🇮🇳_ <br>
   <br><br>
 
 **Customer Reliability Engineer** @ [ASTRONOMER](https://www.astronomer.io/), Cincinnati, OH _(Jan 2020 - Apr 2022)_ <br>
-From Seed to Series B, I joined as the 22nd employee and the company has grew to a headcount of almost 300.
 
 - Provided stable and dependable production environment's to over 150 enterprise users, while offering live troubleshooting support calls.
 - Managed support calls and provided a stable and dependable production environment to enterprise users. Assisted clients in implementing Airflow pipelines, including the integration of the software as a central component in their data and ML workflow’s.
