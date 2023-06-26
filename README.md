@@ -90,7 +90,7 @@ Early-stage startup focused on Student housing.
 ![AKE](https://img.shields.io/badge/AKS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Openshift v3](https://img.shields.io/badge/Openshift-%23563D7C.svg?style=for-the-badge&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-%23092E20.svg?style=for-the-badge&logo=helm&logoColor=white)
-![Kustomizer](https://img.shields.io/badge/Kustomizer-FAC624?style=for-the-badge&logo=Kustomizer&logoColor=black)
+![Kustomize](https://img.shields.io/badge/Kustomizer-FAC624?style=for-the-badge&logo=Kustomizer&logoColor=black)
 
 **Infrastructure as Code**
 
@@ -102,7 +102,7 @@ Early-stage startup focused on Student housing.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%2307405e.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-**Obervability and Monitoring**
+**Observability and Monitoring**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-ACC624?style=for-the-badge&logo=Prometheus&logoColor=black)
 ![Fluentd](https://img.shields.io/badge/Fluentd-%23092E20.svg?style=for-the-badge&logo=Fluentd&logoColor=white)
