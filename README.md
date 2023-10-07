@@ -8,6 +8,15 @@ _DevOps/Infrastructure engineer based in Cincinnati, OH 🇺🇸🇮🇳_ <br>
 
 ## 👨🏻‍💻 Engineering Experience
 
+**Site Reliability Engineer** @ [PEACH](https://www.peachfinance.com/), Cincinnati, OH _(Aug 2023 - Present)_ <br>
+
+Series A, joined a team with fewer than 30 employee.
+
+- Contribute as 1 of 3 infrastructure engineers managing Multi-Million $ asset project a project.
+- Implemente Teleport-based security policy. Empowering devs and sales with audit-ready access. Strengthened customer-specific security, cutting ops time by 15%.
+- Enhancing Infrastructure workflows with CircleCI and Terraform, reducing build time by 20%.
+- Implementing Datadog for microservices resource monitoring, tracing and APM, replacing Google logging and monitoring, resulting in improved engineer detection,debugging and alerting capabilities .
+
 **Site Reliability Engineer** @ [ASTRONOMER](https://www.astronomer.io/), Cincinnati, OH _(Apr 2022 - July 2023)_ <br>
 
 From Seed to Series C, I joined as the 22nd employee, and the company has grown to a headcount of almost 300.
@@ -105,6 +114,7 @@ Early-stage startup focused on Student housing.
 **Observability and Monitoring**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-ACC624?style=for-the-badge&logo=Prometheus&logoColor=black)
+![Datadog](https://img.shields.io/badge/Datadog-ACC24?style=for-the-badge&logo=Datadog&logoColor=black)
 ![Fluentd](https://img.shields.io/badge/Fluentd-%23092E20.svg?style=for-the-badge&logo=Fluentd&logoColor=white)
 ![PagerDuty](https://img.shields.io/badge/PagerDuty-FAC624?style=for-the-badge&logo=PagerDuty&logoColor=black)
 ![Grafana](https://img.shields.io/badge/grafana-3670A0?style=for-the-badge&logo=grafana&logoColor=white)
