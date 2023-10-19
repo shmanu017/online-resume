@@ -99,7 +99,7 @@ Early-stage startup focused on Student housing.
 ![AKE](https://img.shields.io/badge/AKS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Openshift v3](https://img.shields.io/badge/Openshift-%23563D7C.svg?style=for-the-badge&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-%23092E20.svg?style=for-the-badge&logo=helm&logoColor=white)
-![Kustomize](https://img.shields.io/badge/Kustomizer-FAC624?style=for-the-badge&logo=Kustomizer&logoColor=black)
+![Kustomize](https://img.shields.io/badge/Kustomize-FAC624?style=for-the-badge&logo=Kustomize&logoColor=black)
 
 **Infrastructure as Code**
 
