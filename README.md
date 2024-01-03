@@ -13,7 +13,7 @@ _DevOps/Infrastructure engineer based in Cincinnati, OH 🇺🇸🇮🇳_ <br>
 Series A, joined a team with fewer than 30 employee.
 
 - Contribute as 1 of 3 infrastructure engineers managing Multi-Million $ asset project a project.
-- Implemente Teleport-based security policy. Empowering devs and sales with audit-ready access. Strengthened customer-specific security, cutting ops time by 15%.
+- Implement Teleport-based security policy. Empowering devs and sales with audit-ready access. Strengthened customer-specific security, cutting ops time by 15%.
 - Enhancing Infrastructure workflows with CircleCI and Terraform, reducing build time by 20%.
 - Implementing Datadog for microservices resource monitoring, tracing and APM, replacing Google logging and monitoring, resulting in improved engineer detection,debugging and alerting capabilities .
 
