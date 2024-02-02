@@ -63,9 +63,9 @@ Early-stage startup focused on Student housing.
 
 ## 🏆 Certification
 
-**Certifield Kubernetes Administrator** @ [Astronomer](https://www.credly.com/badges/c6812b55-0541-4494-bcbd-0ad0570736df?source=linked_in_profile) _(Jan 2022)_ <br>
+**Certified Kubernetes Administrator** @ [Astronomer](https://www.credly.com/badges/c6812b55-0541-4494-bcbd-0ad0570736df?source=linked_in_profile) _(Jan 2022)_ <br>
 
-**Certifield Kubernetes Application Developer** @ [Astronomer](https://www.credly.com/badges/081c197d-354d-4fd2-8419-2aaff8ad97d2?source=linked_in_profile) _(Feb 2022)_ <br>
+**Certified Kubernetes Application Developer** @ [Astronomer](https://www.credly.com/badges/081c197d-354d-4fd2-8419-2aaff8ad97d2?source=linked_in_profile) _(Feb 2022)_ <br>
 
 **Astronomer Certification for Apache Airflow Fundamentals** @ [Astronomer](https://www.credly.com/badges/979a19d1-4c47-49a4-954e-1af3ca8534ea?source=linked_in_profile) _(Mar 2021)_ <br>
 
