@@ -1,6 +1,6 @@
 # Manu Sharma
 
-_DevOps/Infrastructure engineer based in Cincinnati, OH 🇺🇸🇮🇳_ <br>
+_DevOps/Infrastructure engineer_ <br>
 
 [Email](mailto:shmanu17@gmail.com) / [LinkedIn](https://www.linkedin.com/in/manusharma08/) / [GitHub](https://github.com/shmanu017) / [Schedule with me! ](https://cal.com/manusharma)
 
