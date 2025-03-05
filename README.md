@@ -6,11 +6,28 @@ _DevOps/Infrastructure engineer_ <br>
 
 ## 👨🏻‍💻 Engineering Experience
 
+**Observability Engineer** @ [McCain Foods](https://www.mccain.com/), Gurugram, India _(Sept 2024 - Present)_ <br>
+
+Contribute as 1 of 3 engineers contributing to drive a single observability initiative for the whole organization.
+
+- Devise observability frameworks using Prometheus & Grafana to monitor real-time infrastructure performance effectively.
+- Design and implement observability solutions by integrating Azure container apps with Grafana Cloud, Alloy, and Redis for SAP RISE, managing dashboards, alerts, and metrics pipelines for real-time performance visibility, and collaborating with teams to ensure seamless data flow and monitoring across hybrid cloud environments.
+- Monitor and analyze network health, latency, and connectivity using Grafana Cloud and Azure tools, debug logs to identify root causes of performance issues in containerized environments, and implement log aggregation tools to streamline troubleshooting and enhance system reliability for SAP RISE workloads.
+  
+**Site Reliability Engineer** @ [McCain Foods](https://www.mccain.com/), Gurugram, India _(Mar 2024 - Sept 2024)_ <br>
+
+Collaborated with a team of 5 engineers to support a global multi-billion-dollar project, contributing to all verticals as one of the first 20 engineers hired to scale the technology division in India.
+
+- Built an Infrastructure as Code (IaC) platform using Terraform, improving platform efficiency by 35%, security by 30%, and scalability by 40%.
+- Led incident response automation initiatives, reducing mean time to resolution (MTTR) by 50% and accelerating recovery times across applications.
+- Successfully implemented GitHub Enterprise, onboarded teams, and integrated it with Azure while defining policies and enforcing DORA practices.
+- Ensured system reliability by implementing robust security measures for Azure, including employee training and timely deployment of vulnerability patches.
+  
 **Site Reliability Engineer** @ [PEACH](https://www.peachfinance.com/), Cincinnati, OH _(Aug 2023 - Present)_ <br>
 
 Series A, joined a team with fewer than 30 employee.
 
-- Contribute as 1 of 3 infrastructure engineers managing Multi-Million $ asset project a project.
+- Contribute as 1 of 3 infrastructure engineers managing Multi-Million $ asset project.
 - Implement Teleport-based security policy. Empowering devs and sales with audit-ready access. Strengthened customer-specific security, cutting ops time by 15%.
 - Enhancing Infrastructure workflows with CircleCI and Terraform, reducing build time by 20%.
 - Implementing Datadog for microservices resource monitoring, tracing and APM, replacing Google logging and monitoring, resulting in improved engineer detection,debugging and alerting capabilities .
@@ -116,6 +133,7 @@ Early-stage startup focused on Student housing.
 ![Fluentd](https://img.shields.io/badge/Fluentd-%23092E20.svg?style=for-the-badge&logo=Fluentd&logoColor=white)
 ![PagerDuty](https://img.shields.io/badge/PagerDuty-FAC624?style=for-the-badge&logo=PagerDuty&logoColor=black)
 ![Grafana](https://img.shields.io/badge/grafana-3670A0?style=for-the-badge&logo=grafana&logoColor=white)
+![BigPanda](https://img.shields.io/badge/bigpanda-3670Z0?style=for-the-badge&logo=bigpanda&logoColor=white)
 
 **Version Control**
 
