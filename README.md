@@ -23,7 +23,7 @@ Collaborated with a team of 5 engineers to support a global multi-billion-dollar
 - Successfully implemented GitHub Enterprise, onboarded teams, and integrated it with Azure while defining policies and enforcing DORA practices.
 - Ensured system reliability by implementing robust security measures for Azure, including employee training and timely deployment of vulnerability patches.
   
-**Site Reliability Engineer** @ [PEACH](https://www.peachfinance.com/), Cincinnati, OH _(Aug 2023 - Present)_ <br>
+**Site Reliability Engineer** @ [PEACH](https://www.peachfinance.com/), Cincinnati, OH _(Aug 2023 - Feb 2024)_ <br>
 
 Series A, joined a team with fewer than 30 employee.
 
